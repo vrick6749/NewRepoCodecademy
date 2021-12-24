@@ -14,7 +14,7 @@ function getRandomJoke(){
         
         console.log(getRandomJoke())
 
-        answer = prompt('hear a joke? yes or no ')
+        answer = prompt('Did you like that joke? Would you like to hear another one yes or no ')
         
 
     }
